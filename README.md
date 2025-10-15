@@ -2,11 +2,11 @@
 
 Quickly connect and disconnect from the paired bluetooth devices.
 
-![bt_menu](https://user-images.githubusercontent.com/42439472/164915659-777e0c2e-bb73-4a45-9ae7-63ab21f1808e.png)
+![Screenshot](/assets/screenshot.png)
 
 This extension is listed on the Ulauncher extensions page.
 
-[![Ulauncher Extension](https://img.shields.io/badge/Ulauncher-Extension-green.svg?style=for-the-badge)](https://ext.ulauncher.io/-/github-eckhoff42-ulauncher-bluetooth-quick-connect)
+[![Ulauncher Extension](https://img.shields.io/badge/Ulauncher-Extension-green.svg?style=for-the-badge)](https://ext.ulauncher.io/-/github-tobineben-ulauncher-bluetooth-connection-toggle)
 [![GitHub license](https://img.shields.io/github/license/brpaz/ulauncher-file-search.svg?style=for-the-badge)](LICENSE)
 
 ## Settings
