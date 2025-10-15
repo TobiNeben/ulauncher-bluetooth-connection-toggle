@@ -11,7 +11,7 @@ This extension is listed on the Ulauncher extensions page.
 
 ## Settings
 
-![settings](https://user-images.githubusercontent.com/42439472/164915725-84710383-3d91-47ad-80ed-8a3b20b98bf2.png)
+![settings](/assets/settings.png)
 
 Change the keyword in under _Bluetooth connection toggle Keyword_
 
