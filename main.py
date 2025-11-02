@@ -29,7 +29,7 @@ class KeywordQueryEventListener(EventListener):
         logger.info('preferences %s' % json.dumps(extension.preferences))
 
         # get  paired bluetooth devices
-        ret = os.popen("bash -c 'bluetoothctl paired-devices'").read()
+        ret = os.popen("bash -c 'bluetoothctl devices'").read()
         for line in ret.splitlines():
             parts = line.split()
             if len(parts) < 3:
